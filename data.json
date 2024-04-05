@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "nom": "Galaxy A13",
+        "prix": 200000,
+        "categorie": "Samsung",
+        "description": "",
+        "image": "images/GalaxyA13.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 2,
+        "nom": "Huawei nova 11",
+        "prix": 300000,
+        "categorie": "Huawei",
+        "description": "",
+        "image": "images/Huaweinova11i.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 3,
+        "nom": "Huawei nova Y70",
+        "prix": 450000,
+        "categorie": "Huawei",
+        "description": "",
+        "image": "images/HuaweinovaY70.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 4,
+        "nom": "Huawei Y9 Prime",
+        "prix": 500000,
+        "categorie": "Huawei",
+        "description": "",
+        "image": "images/HuaweiY9Prime.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 5,
+        "nom": "IPhone 12 pro",
+        "prix": 900000,
+        "categorie": "Iphone",
+        "description": "",
+        "image": "images/IPhone12pro.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 6,
+        "nom": "Iphone 13 pro max",
+        "prix": 1000000,
+        "categorie": "Iphone",
+        "description": "",
+        "image": "images/Iphone13promax.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 7,
+        "nom": "IPhone 14 pro",
+        "prix": 1200000,
+        "categorie": "Iphone",
+        "description": "",
+        "image": "images/iPhone14pro.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 8,
+        "nom": "Iphone11",
+        "prix": 700000,
+        "categorie": "Iphone",
+        "description": "",
+        "image": "images/Iphone11.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 9,
+        "nom": "Samsung A50",
+        "prix": 160000,
+        "categorie": "Samsung",
+        "description": "",
+        "image": "images/SamsungA50.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 10,
+        "nom": "Samsung Galaxy A33",
+        "prix": 240000,
+        "categorie": "Samsung",
+        "description": "",
+        "image": "images/SamsungGalaxyA33.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 11,
+        "nom": "Samsung Galaxy A72",
+        "prix": 650000,
+        "categorie": "Samsung",
+        "description": "",
+        "image": "images/SamsungGalaxyA72.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 12,
+        "nom": "Samsung Galaxy A80",
+        "prix": 720000,
+        "categorie": "Samsung",
+        "description": "",
+        "image": "images/SamsungGalaxyA80.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 13,
+        "nom": "Xiaomi 13 Ultra",
+        "prix": 360000,
+        "categorie": "Xiaomi",
+        "description": "",
+        "image": "images/Xiaomi13Ultra.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 14,
+        "nom": "Xiaomi K30 Pro",
+        "prix": 250000,
+        "categorie": "Xiaomi",
+        "description": "",
+        "image": "images/XiaomiK30Pro.jpeg",
+        "disponibilité": true
+    },
+    {
+        "id": 15,
+        "nom": "Xiaomi 11 Lite",
+        "prix": 95000,
+        "categorie": "Xiaomi",
+        "description": "",
+        "image": "images/XiaomiMi11Lite.jpeg",
+        "disponibilité": true
+    }
+]
